@@ -13,6 +13,11 @@
   <li>I hope to better identify wedges in a problem statement.</li>
 </ul>
 <b>Yuanzhe Ma:</b>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 
 <b>Andrew Doberstein:</b>
 <ul>
@@ -20,4 +25,10 @@
   <li>I hope to create a functional product with a clear value-add and high potential for a startup.</li>
   <li>I hope to develop my understanding of the startup and product development process and the skills required to succeed.</li>
 </ul>
-  
+
+<b>Abhiram Muddu:</b>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
