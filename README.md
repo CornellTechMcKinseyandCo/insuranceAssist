@@ -8,7 +8,6 @@ This is the repository for the Product Studio for the Fall Semester - 2016 Compa
 https://docs.google.com/spreadsheets/d/1DOWTrhChmZSr6Yz9Q98jxjNvgE_aEOVjlIz2n6wlObo/edit#gid=0
 
 <b>Team Progress Log</b>
-
 https://docs.google.com/spreadsheets/d/1G1iutBaEcN13TQ-7DC7uFeZvfwD0Mxv4B9kTm_e8-_M/edit#gid=0
 
 <h1>Team members:</h1>
