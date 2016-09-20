@@ -5,9 +5,9 @@
     <li>We want to learn from each other and develop our skills as a team to work efficiently and successfully.</li>
 
 
-<b>Personal Goals</b>
+<b>Personal Goals
 
-<b>Utsav U Vakil:</b>
+Utsav U Vakil:</b>
 <ul>
   <li>With this project, I hope to learn to work in a team in a cohesive manner, and meet weekly goals easily.</li>
   <li>I hope to implement a fully working prototype of the product we have planned to develop as our solution.</li>
