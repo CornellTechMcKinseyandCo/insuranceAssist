@@ -3,8 +3,7 @@
     <li>We hope to work effectively together to develop a product suitable for a startup company. </li>
     <li>We want our product to improve efficiency by applying modern technology within the scope of the insurance industry.</li>
     <li>We want to learn from each other and develop our skills as a team to work efficiently and successfully.</li>
-
-
+</ul>
 <b>Personal Goals</b>
 <li></li>
 <b>Utsav U Vakil:</b>
