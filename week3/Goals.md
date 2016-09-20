@@ -27,7 +27,6 @@
 
 <b>Abhiram Muddu:</b>
 <ul>
-<li></li> I want to build a product that brings efficiency to the system that we are working on.
-<li></li> My second goal is to learn the art of saying no to ideas or frameworks by thoroughly vetting each one from a feasibility standpoint.
-<li></li>
+<li>I want to build a product that brings efficiency to the system that we are working on.</li> 
+<li>My second goal is to learn the art of saying no to ideas or frameworks by thoroughly vetting each one from a feasibility standpoint.</li> 
 </ul>
