@@ -14,9 +14,8 @@
 </ul>
 <b>Yuanzhe Ma:</b>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li>I want to know how to analysis a product’s market value</li>
+<li>I will learn the process to build a product</li>
 </ul>
 
 <b>Andrew Doberstein:</b>
