@@ -1,12 +1,13 @@
 Team Goals
 
 
-Personal Goals
+<b>Personal Goals</b>
 
-Utsav U Vakil:
-With this project, I hope to learn to work in a team in a cohesive manner, and meet weekly goals easily.
-I hope to implement a fully working prototype of the product we have planned to develop as our solution.
-I hope to better identify wedges in a problem statement.
-
+<b>Utsav U Vakil:</b>
+<ul>
+  <li>With this project, I hope to learn to work in a team in a cohesive manner, and meet weekly goals easily.</li>
+  <li>I hope to implement a fully working prototype of the product we have planned to develop as our solution.</li>
+  <li>I hope to better identify wedges in a problem statement.</li>
+<ul>
 Yuanzhe Ma:
 
