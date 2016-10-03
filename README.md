@@ -19,4 +19,6 @@ https://docs.google.com/spreadsheets/d/1G1iutBaEcN13TQ-7DC7uFeZvfwD0Mxv4B9kTm_e8
   <li>Utsav Utpal Vakil</li>
 </ul>
 
+<b>Commit Graph</b>
+<a href="https://github.com/CornellTechMcKinseyandCo/insuranceAssist/graphs/commit-activity">Check out our Commit Graph!</a>
 
